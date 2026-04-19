@@ -2,14 +2,9 @@
 
 Full desktop web app built with React + Vite + Tailwind CSS.
 
-## Quick Start
 
-```bash
-npm install
-npm run dev
-```
 
-Open → http://localhost:5173
+Open → https://arogya-sable.vercel.app/
 
 ## Modules (auto-installed via npm install)
 
