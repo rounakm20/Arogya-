@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+test-gemini.js
+check-db.mjs
+check-recent.mjs
+test-signup.mjs
